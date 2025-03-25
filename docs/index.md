@@ -3,6 +3,8 @@ title: Privacy Policy for Iman
 layout: default
 ---
 
+# Privacy Policy for Iman
+
 Iman is a locally run desktop tool created by and for the personal use of [Rosi / The Gifted Atelier]
 
 This tool:
