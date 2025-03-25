@@ -5,7 +5,7 @@ layout: default
 
 # Privacy Policy for Iman
 
-Iman is a locally run desktop tool created by and for the personal use of [Rosi / The Gifted Atelier]
+Iman is a locally run desktop tool created by *TheGiftedAtelier* for the personal use
 
 This tool:
 * Does not collect, store, or transmit any personal data
