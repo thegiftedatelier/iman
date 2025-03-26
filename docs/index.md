@@ -5,7 +5,7 @@ layout: default
 
 # Privacy Policy for Iman
 
-Iman is a locally run desktop tool created by and for the personal use of [Rosi / The Gifted Atelier]
+Iman is a locally running desktop tool created by *TheGiftedAtelier* for the personal use.
 
 This tool:
 * Does not collect, store, or transmit any personal data
@@ -14,6 +14,3 @@ This tool:
 * Is used only by the developer for uploading personal content to their own Pinterest Business account
 
 If you have any questions, feel free to contact me via Email: [thegiftedatelier81@gmail.com](mailto:thegiftedatelier81@gmail.com)
-
-Welcome to the iman wiki!
-
