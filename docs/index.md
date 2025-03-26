@@ -1,3 +1,8 @@
+---
+title: Iman
+layout: default
+---
+
 # Privacy Policy
 
 **Last Updated: 25th March 2025**
