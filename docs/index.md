@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy for Iman
+title: Privacy Policy
 layout: page
 ---
 
