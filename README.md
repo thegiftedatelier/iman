@@ -14,3 +14,7 @@ This tool:
 - Runs entirely on the user’s local computer
 - Has no backend, cloud service, or data logging
 - Is used only by the developer for uploading personal content to their own Pinterest Business account
+
+## Features
+
+- Upload an image from a local path to a Pinterest private board
