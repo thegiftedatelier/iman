@@ -1,9 +1,4 @@
----
-title: Iman Privacy Policy
-layout: default
----
-
-# Iman Privacy Policy
+# Privacy Policy
 
 **Last Updated: 25th March 2025**
 
