@@ -30,7 +30,7 @@ All interactions occur directly between my CLI and the Pinterest and Instagram A
 
 Pinterest and Instagram’s privacy policies govern the handling of uploaded images:
 - **Pinterest API:** [Pinterest Privacy Policy](https://policy.pinterest.com/en/privacy-policy)  
-- **Cloudinary API:** [Instagram Privacy Policy](https://privacycenter.instagram.com/policy)  
+- **Instagram API:** [Instagram Privacy Policy](https://privacycenter.instagram.com/policy)  
 
 ## Security
 
@@ -43,6 +43,10 @@ The API credentials are stored securely and are **not** shared or distributed.
 **Owner:** TheGiftedAtelier  
 **Website:** [https://thegiftedatelier.github.io/iman](https://thegiftedatelier.github.io/iman)  
 **Contact Email:** [thegiftedatelier81@gmail.com](mailto:thegiftedatelier81@gmail.com)
+
+<br>
+<br>
+<br>
 
 ---
 
