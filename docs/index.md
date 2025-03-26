@@ -1,16 +1,40 @@
 ---
 title: Privacy Policy for Iman
-layout: default
+layout: page
 ---
 
-# Privacy Policy for Iman
+# Privacy Policy
 
-Iman is a locally running desktop tool created by *TheGiftedAtelier* for the personal use.
+**Last Updated: 25th March 2025**
 
-This tool:
-* Does not collect, store, or transmit any personal data
-* Runs entirely on the user’s local computer
-* Has no backend, cloud service, or data logging
-* Is used only by the developer for uploading personal content to their own Pinterest Business account
+## Introduction
 
-If you have any questions, feel free to contact me via Email: [thegiftedatelier81@gmail.com](mailto:thegiftedatelier81@gmail.com)
+This privacy policy applies to a private command line (CLI) tool called *Iman*, which is developed and used exclusively by *TheGiftedAtelier* (the owner) to upload personal photos to its social media accounts.
+
+This CLI tool is not publicly available, does not collect or store any user data, and does not interact with any third-party users.
+
+## Data Collection & Usage
+
+This tool only processes images that are manually selected and uploaded to Pinterest and Instagram.
+
+No personal, sensitive, or user-related data is collected, stored, or shared.
+
+The tool does not track, analyze, or store user activity.
+
+## Third-Party Services
+
+The tool uses the Pinterest and Instagram APIs to upload images.
+
+All interactions occur directly between my CLI and the Pinterest and Instagram Accounts.
+
+Pinterest and Instagram’s privacy policies govern the handling of uploaded images.
+
+## Security
+
+The tool runs only on a local computer and does not expose any data externally.
+
+The API credentials are stored securely and are not shared or distributed.
+
+## Contact
+
+For any concerns related to this privacy policy, you can contact *TheGiftedAtelier* at: [thegiftedatelier81@gmail.com](mailto:thegiftedatelier81@gmail.com)
