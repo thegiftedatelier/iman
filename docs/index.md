@@ -1,5 +1,6 @@
 ---
 title: Iman
+description: A simple command line (CLI) tool to upload personal photos to social media accounts
 layout: default
 ---
 
