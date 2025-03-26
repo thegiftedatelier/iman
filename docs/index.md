@@ -46,10 +46,12 @@ The API credentials are stored securely and are **not** shared or distributed.
 
 <br>
 <br>
-<br>
 
 ---
 
 <div style="text-align: center; font-size: 14px; color: gray;">
   © 2025 Iman. All Rights Reserved.
 </div>
+
+<br>
+<br>
