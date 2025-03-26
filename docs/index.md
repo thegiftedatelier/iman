@@ -6,7 +6,7 @@ layout: default
 
 # Privacy Policy
 
-**Last Updated: 25th March 2025**
+**Last Updated: 26th March 2025**
 
 ## Introduction
 
@@ -30,7 +30,7 @@ All interactions occur directly between my CLI and the Pinterest and Instagram A
 
 Pinterest and Instagram’s privacy policies govern the handling of uploaded images:
 - **Pinterest API:** [Pinterest Privacy Policy](https://policy.pinterest.com/en/privacy-policy)  
-- **Cloudinary API (if used):** [Cloudinary Privacy Policy](https://cloudinary.com/privacy)  
+- **Cloudinary API:** [Instagram Privacy Policy](https://privacycenter.instagram.com/policy)  
 
 ## Security
 
